@@ -1,0 +1,71 @@
+Department: Processors
+Category: Intel Processors
+Intel Core i9-10900K, 123, 19999, 0. 18000,      Intel Processors,      Processors
+Intel Core i7-10700K, 456, 13999, 3. 13000,   Intel Processors,   Processors
+Intel Core i5-10600K, 789, 9999, 7. 9000,    Intel Processors,    Processors
+AMD Ryzen 9 5900X, 987, 29999, 1. 28000,  AMD Processors,  Processors
+
+Category: AMD Processors
+1, 1, 1, 1.1, 1, 1
+AMD Ryzen 5 5600X, 567, 13999, 6. 13000, AMD Processors, Processors
+AMD Ryzen 3 3300X, 890, 6999, 10. 6500, AMD Processors, Processors
+
+Department: Graphics Cards
+Category: NVIDIA Graphics Cards
+NVIDIA GeForce RTX 3080, 345, 69999, 1. 65000,  NVIDIA Graphics Cards,  Graphics Cards
+NVIDIA GeForce RTX 3070, 678, 49999, 4. 47000,  NVIDIA Graphics Cards,  Graphics Cards
+NVIDIA GeForce RTX 3060, 901, 34999, 7. 32000,  NVIDIA Graphics Cards,  Graphics Cards
+
+Category: AMD Graphics Cards
+AMD Radeon RX 6900 XT, 1234, 79999, 1. 75000,   AMD Graphics Cards,   Graphics Cards
+AMD Radeon RX 6800 XT, 5678, 59999, 4. 55000, AMD Graphics Cards, Graphics Cards
+AMD Radeon RX 6700 XT, 9012, 39999, 6. 37000, AMD Graphics Cards, Graphics Cards
+
+Department: Memory
+Category: RAM
+Corsair Vengeance RGB Pro 16GB (2x8GB), 234, 6999, 8. 6500,   RAM,   Memory
+G.Skill Trident Z RGB 32GB (2x16GB), 567, 14999, 4. 14000, RAM, Memory
+Crucial Ballistix 8GB (2x4GB), 890, 3999, 12. 3700, RAM, Memory
+
+Category: Storage
+Samsung 980 PRO 1TB NVMe SSD, 1234, 14999, 2. 14000, NVMe SSD, Storage
+Seagate BarraCuda 2TB HDD, 5678, 5999, 8. 5500, HDD, Storage
+Western Digital Blue 500GB SATA SSD, 9012, 3499, 6. 3200, SATA SSD, Storage
+
+Department: Power Supplies
+Category: Modular Power Supplies
+Corsair RM850x 850W 80+ Gold, 234, 8999, 5. 8500, Modular Power Supplies, Power Supplies
+EVGA SuperNOVA 750 G3 750W 80+ Gold, 567, 7999, 8. 7500, Modular Power Supplies, Power Supplies
+Seasonic Focus GX-650 650W 80+ Gold, 890, 6999, 10. 6500, Modular Power Supplies, Power Supplies
+
+Category: Non-Modular Power Supplies
+Cooler Master MWE 650W 80+ Bronze, 1234, 4999, 12. 4700, Non-Modular Power Supplies, Power Supplies
+Thermaltake Smart 500W 80+ White, 5678, 3499, 15. 3200, Non-Modular Power Supplies, Power Supplies
+
+Department: Cooling
+Category: CPU Coolers
+NZXT Kraken X63 280mm AIO Cooler, 234, 9999, 6. 9500, CPU Coolers, Cooling
+Cooler Master Hyper 212 RGB, 567, 4999, 10. 4500, CPU Coolers, Cooling
+Noctua NH-D15 CPU Cooler, 890, 8999, 4. 8500, CPU Coolers, Cooling
+
+Category: Case Fans
+Corsair LL120 RGB 120mm Fans (3-Pack), 1234, 4999, 8. 4700, Case Fans, Cooling
+NZXT AER RGB 2 140mm Fans (2-Pack), 5678, 3499, 12. 3200, Case Fans, Cooling
+
+Department: Motherboards
+Category: Intel Motherboards
+ASUS ROG Maximus XII Hero (Wi-Fi), 234, 24999, 2. 24000, Intel Motherboards, Motherboards
+Gigabyte Z590 AORUS Ultra, 567, 19999, 4. 19000, Intel Motherboards, Motherboards
+
+Category: AMD Motherboards
+ASRock X570 Taichi, 890, 19999, 6. 19000, AMD Motherboards, Motherboards
+MSI MAG B550 TOMAHAWK, 1234, 14999, 8. 14000, AMD Motherboards, Motherboards
+
+Department: Cases
+Category: Mid Tower Cases
+NZXT H510 Elite, 234, 7999, 4. 7500, Mid Tower Cases, Cases
+Phanteks Eclipse P400A RGB, 567, 5999, 8. 5500, Mid Tower Cases, Cases
+
+Category: Full Tower Cases
+Corsair Obsidian 1000D, 890, 14999, 1. 14000,  Full Tower Cases,  Cases
+Lian Li PC-O11 Dynamic, 1234, 8999, 5. 8500, Full Tower Cases, Cases

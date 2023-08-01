@@ -1,0 +1,69 @@
+﻿  main.cpp
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(45,21): error C2061: syntax error: identifier 'Inventory'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(61,14): error C2143: syntax error: missing ';' before '*'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(61,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(61,24): error C2238: unexpected token(s) preceding ';'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(71,15): error C3646: 'getProducts': unknown override specifier
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(71,26): error C2059: syntax error: '('
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(71,33): error C2238: unexpected token(s) preceding ';'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(76,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(76,37): error C2143: syntax error: missing ',' before '&'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(91,1): error C2504: 'Inventory': base class undefined
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(92,15): error C3646: 'emptyStock': unknown override specifier
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(92,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(99,14): error C2143: syntax error: missing ';' before '*'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(99,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(99,37): error C2238: unexpected token(s) preceding ';'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(107,24): error C2061: syntax error: identifier 'Inventory'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(143,14): error C2143: syntax error: missing ';' before '*'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(143,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(143,19): error C2238: unexpected token(s) preceding ';'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\main.cpp(23,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\main.cpp(136,46): error C2039: 'getProducts': is not a member of 'Customer'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(55,7): message : see declaration of 'Customer'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\main.cpp(136,25): error C2660: 'StoreManager::updateItem': function does not take 2 arguments
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(45,10): message : see declaration of 'StoreManager::updateItem'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\main.cpp(136,25): message : while trying to match the argument list '()'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\main.cpp(343,46): error C2039: 'getProducts': is not a member of 'Customer'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(55,7): message : see declaration of 'Customer'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\main.cpp(343,25): error C2660: 'StoreManager::updateItem': function does not take 2 arguments
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(45,10): message : see declaration of 'StoreManager::updateItem'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\main.cpp(343,25): message : while trying to match the argument list '()'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\main.cpp(345,37): error C2039: 'getProducts': is not a member of 'Customer'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(55,7): message : see declaration of 'Customer'
+  persons.cpp
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\shopping.h(133,26): error C2061: syntax error: identifier 'EmptyStock'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.cpp(238,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.cpp(271,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.cpp(354,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.cpp(973,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.cpp(974,63): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.cpp(975,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  shopping.cpp
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(45,21): error C2061: syntax error: identifier 'Inventory'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(61,14): error C2143: syntax error: missing ';' before '*'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(61,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(61,24): error C2238: unexpected token(s) preceding ';'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(71,15): error C3646: 'getProducts': unknown override specifier
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(71,26): error C2059: syntax error: '('
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(71,33): error C2238: unexpected token(s) preceding ';'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(76,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(76,37): error C2143: syntax error: missing ',' before '&'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(91,1): error C2504: 'Inventory': base class undefined
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(92,15): error C3646: 'emptyStock': unknown override specifier
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(92,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(99,14): error C2143: syntax error: missing ';' before '*'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(99,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(99,37): error C2238: unexpected token(s) preceding ';'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(107,24): error C2061: syntax error: identifier 'Inventory'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(143,14): error C2143: syntax error: missing ';' before '*'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(143,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\persons.h(143,19): error C2238: unexpected token(s) preceding ';'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\shopping.cpp(105,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\shopping.cpp(115,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\shopping.cpp(369,21): error C2065: 'x': undeclared identifier
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\shopping.cpp(373,26): error C2065: 'x': undeclared identifier
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\shopping.cpp(386,17): error C2143: syntax error: missing ';' before '}'
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\shopping.cpp(355,40): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Y:\2nd Semester\OOP\OOP - Pro\Shopping_Portal\ConsoleApplication1\shopping.cpp(423,40): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...

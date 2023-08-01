@@ -1,0 +1,56 @@
+DEPARTMENT : a
+Category : b
+1, 1, 1, 1,. 0., q, w 
+Fries, 001, 50, 65. 0. Edible, Food
+Burger, 002, 150, 170. 50. Edible, Food
+Shawarma, 003, 150, 165, 10, Edible, Food
+
+Category : Kitchen
+Wheat 016, 60, 70, Kitchen, Food
+Rice 017, 50, 55, Kitchen, Food
+Salt 018, 15, 20, Kitchen, Food
+
+DEPARTMENT : Drinks
+Category : Bottle
+Coke 004, 35, 45, Bottle, Drinks
+Fanta 005, 35, 45, Bottle, Drinks
+Roar 006, 35, 45, Bottle, Drinks
+
+Category : Juices
+Orange Juice 013, 135, 145, Juices, Drinks
+Apple Cider 014, 140, 150, Juices, Drinks
+Apricot Drink 015, 160, 170, Juices, Drinks
+
+
+DEPARTMENT : Grocery
+Category : Vegetables
+Tomato 007, 60, 70, Vegetables, Grocery
+Potato 008, 55, 65, Vegetables, Grocery
+Onion 009, 80, 90, Vegetables, Grocery
+
+Category : Fruits
+Apple 010, 100, 120, Fruits, Grocery
+Banana 011, 120, 130, Fruits, Grocery
+Orange 012, 90, 105, Fruits, Grocery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

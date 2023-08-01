@@ -1,0 +1,78 @@
+Department: Electronics
+Category: Mobile Phones
+Product data:
+"Samsung Galaxy S21", "SKU123", "99,999", "20", "90,000", "Mobile Phones", "Electronics"
+"iPhone 13", "SKU456", "149,999", "15", "140,000", "Mobile Phones", "Electronics"
+"Xiaomi Redmi Note 10", "SKU789", "29,999", "30", "25,000", "Mobile Phones", "Electronics"
+"OnePlus 9 Pro", "SKU987", "119,999", "10", "110,000", "Mobile Phones", "Electronics"
+
+Category: Laptops
+Product data:
+"Dell XPS 15", "SKU234", "199,999", "8", "185,000", "Laptops", "Electronics"
+"HP Spectre x360", "SKU567", "139,999", "12", "130,000", "Laptops", "Electronics"
+"Lenovo ThinkPad X1 Carbon", "SKU890", "169,999", "6", "160,000", "Laptops", "Electronics"
+"Apple MacBook Pro", "SKU1234", "239,999", "4", "230,000", "Laptops", "Electronics"
+
+Department: Appliances
+Category: Refrigerators
+Product data:
+"Samsung Side-by-Side Refrigerator", "SKU345", "139,999", "15", "130,000", "Refrigerators", "Appliances"
+"LG French Door Refrigerator", "SKU678", "169,999", "10", "160,000", "Refrigerators", "Appliances"
+"Haier Top Mount Refrigerator", "SKU901", "59,999", "20", "55,000", "Refrigerators", "Appliances"
+"Whirlpool Compact Refrigerator", "SKU1234", "44,999", "25", "40,000", "Refrigerators", "Appliances"
+
+Category: Air Conditioners
+Product data:
+"Daikin Inverter AC", "SKU5678", "89,999", "10", "82,000", "Air Conditioners", "Appliances"
+"Gree Split AC", "SKU9012", "69,999", "15", "65,000", "Air Conditioners", "Appliances"
+"Haier Window AC", "SKU12345", "49,999", "20", "45,000", "Air Conditioners", "Appliances"
+"LG Dual Inverter AC", "SKU67890", "79,999", "8", "75,000", "Air Conditioners", "Appliances"
+
+Category: Vacuum Cleaners
+Product data:
+"Dyson V11 Absolute Cordless Vacuum", "SKU345", "79,999", "15", "75,000", "Vacuum Cleaners", "Appliances"
+"Bissell CleanView Bagless Vacuum", "SKU678", "24,999", "20", "22,000", "Vacuum Cleaners", "Appliances"
+"Eureka PowerSpeed Lightweight Vacuum", "SKU901", "14,999", "30", "13,000", "Vacuum Cleaners", "Appliances"
+"Shark Navigator Lift-Away Vacuum", "SKU1234", "39,999", "10", "37,000", "Vacuum Cleaners", "Appliances"
+
+
+Department: Computers
+Category: Monitors
+Product data:
+"Dell 27-inch 4K Monitor", "SKU234", "49,999", "8", "45,000", "Monitors", "Computers"
+"HP 24-inch Full HD Monitor", "SKU567", "24,999", "12", "22,000", "Monitors", "Computers"
+"LG 32-inch Curved Gaming Monitor", "SKU890", "64,999", "6", "60,000", "Monitors", "Computers"
+"AOC 23.8-inch IPS Monitor", "SKU1234", "19,999", "10", "18,000", "Monitors", "Computers"
+
+
+Department: Gaming
+Category: Gaming Consoles
+Product data:
+"Sony PlayStation 5", "SKU234", "99,999", "8", "95,000", "Gaming Consoles", "Gaming"
+"Microsoft Xbox Series X", "SKU567", "89,999", "12", "85,000", "Gaming Consoles", "Gaming"
+"Nintendo Switch", "SKU890", "49,999", "20", "47,000", "Gaming Consoles", "Gaming"
+"Sony PlayStation 4 Pro", "SKU1234", "59,999", "15", "55,000", "Gaming Consoles", "Gaming"
+
+Department: Audio
+Category: Headphones
+Product data:
+"Sony WH-1000XM4 Wireless Headphones", "SKU234", "29,999", "8", "27,000", "Headphones", "Audio"
+"Apple AirPods Pro", "SKU567", "24,999", "12", "22,000", "Headphones", "Audio"
+"JBL Free X True Wireless Earbuds", "SKU890", "9,999", "20", "8,500", "Headphones", "Audio"
+"Beats Solo3 Wireless On-Ear Headphones", "SKU1234", "19,999", "10", "18,000", "Headphones", "Audio"
+
+Department: Cameras
+Category: DSLR Cameras
+Product data:
+"Canon EOS 5D Mark IV", "SKU345", "299,999", "5", "285,000", "DSLR Cameras", "Cameras"
+"Nikon D850", "SKU678", "279,999", "7", "265,000", "DSLR Cameras", "Cameras"
+"Sony Alpha A7 III", "SKU901", "209,999", "10", "195,000", "DSLR Cameras", "Cameras"
+"Fujifilm X-T4", "SKU1234", "169,999", "12", "155,000", "DSLR Cameras", "Cameras"
+
+Department: Accessories
+Category: Power Banks
+Product data:
+"Anker PowerCore 26800mAh Power Bank", "SKU234", "5,999", "15", "5,500", "Power Banks", "Accessories"
+"Xiaomi Mi Power Bank 3 10000mAh", "SKU567", "1,999", "20", "1,800", "Power Banks", "Accessories"
+"RAVPower 20000mAh USB-C Power Bank", "SKU890", "3,999", "10", "3,500", "Power Banks", "Accessories"
+"Samsung 10000mAh Wireless Power Bank", "SKU1234", "4,999", "8", "4,500", "Power Banks", "Accessories"
